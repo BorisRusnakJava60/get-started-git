@@ -1,0 +1,38 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border-radius: 100px;
+    border:3px solid;
+    background-color: white;
+}
+.box-one {
+    border-color: rgb(100, 206, 135);
+    position: fixed;
+}
+.box-two {
+    border-color: rgb(51, 115, 211);
+    position: absolute;
+    left: 150px;
+}
+
+.box-three {
+    border-color: rgb(202, 145, 32);
+    position: absolute;
+    left: 300px;
+}
+
+.box-four {
+    border-color: rgb(108, 28, 134);
+    left: 80px;
+    top: 70px;
+    position: absolute;
+}
+
+.box-five {
+    border-color: rgb(161, 155, 65);
+    position: absolute;
+    left: 225px;
+    top: 70px;
+}
