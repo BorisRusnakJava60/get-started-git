@@ -1,0 +1,33 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    text-align: center;
+}
+
+.gallery--item {
+    border: 4px solid rgb(210, 207, 207);
+    border-radius: 40px;
+    width: 20rem;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.gallery--item_title {
+    display: block;
+    font-size: 2rem;
+    width: 20rem;
+    background-color: rgb(51, 51, 218);
+    text-align: center;
+    color: rgb(244, 245, 246);
+}
+
+.gallery {
+    list-style: none;
+    margin-top: 20vh;
+}
+
+.gallery--item_image {
+    display: block;
+}
