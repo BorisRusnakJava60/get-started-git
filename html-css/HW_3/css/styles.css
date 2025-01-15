@@ -8,7 +8,7 @@ body {
 
 .gallery--item {
     border: 4px solid rgb(210, 207, 207);
-    border-radius: 40px;
+    border-radius: 50px;
     width: 20rem;
     overflow: hidden;
     display: inline-block;
@@ -25,7 +25,7 @@ body {
 
 .gallery {
     list-style: none;
-    margin-top: 20vh;
+    margin-top: 10vh;
 }
 
 .gallery--item_image {
